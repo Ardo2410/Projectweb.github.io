@@ -1,0 +1,87 @@
+* {
+    margin:0;
+    padding:0;
+    }
+
+    /* background */
+ .header {
+        /* background-image: Linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/image1.jpg); cahaya background */
+        height: 148vh;
+        background-position: center;
+        background-size: cover;
+        background-color: rgb(255, 255, 255);
+ }
+    h3,h4{
+    color:white;
+    font-weight:bold;
+    }
+    /* body mulai dari logo nya */
+    body {
+        padding-top:100px;
+        }
+
+        /* bagian ke 3 pada pilihan makanan nya */
+    #hover-cap-4col .thumbnail {
+        position:relative;
+        overflow:hidden;    
+    }
+     .caption {
+        display: grid;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgba(0,0,0,0.4);
+        width: 70%;
+        height: 100%;
+        color:#fff !important;
+    }
+    /* ukuran gambar yang bisa di geser */
+    .item img{
+    width:100%;
+    max-height:400px;
+    margin-right:auto;
+    margin-left:auto;
+    }
+    /* untuk get update nya */
+    .tengah {
+    margin-top:10px;
+    text-align:center;
+
+    }
+    
+    .kiri {
+    float:left;
+    background-color:red;
+    }
+    
+    /* untuk gambar makanan yg byk */
+    .col-sm-3 img {
+    max-height:300px;
+    width: 500%;
+    }
+
+    .carousel-inner img{
+    height:100%;
+    width:100%;
+    }
+    
+    
+    
+    #email {
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    }
+ 
+    /* ul li {
+    list-style:none;
+    font-weight:bold;
+    } */
+.footer {
+    background-color: rgb(255, 255, 255);
+}
+    @media screen and (max-width:460px){
+        p {
+        font-size:12px;
+        }
+    }

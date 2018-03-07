@@ -1,0 +1,64 @@
+* {
+    margin:0;
+    padding:0;
+    }
+
+   /* background */
+   .header {
+    /* background-image: Linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/image1.jpg); cahaya background */
+    height: 148vh;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+}
+h3,h4{
+    color:white;
+    font-weight:bold;
+    }
+
+body {
+    padding-top:60px;
+    }
+
+  /* bagian ke 3 pada pilihan makanan nya */
+  #hover-cap-4col .thumbnail {
+    position:relative;
+    overflow:hidden;    
+}
+ .caption {
+    display: grid;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.4);
+    width: 70%;
+    height: 100%;
+    color:#fff !important;
+}
+/* untuk gambar makanan yg byk */
+.col-sm-3 img {
+    height:300px;
+    width: 400%;
+    }
+
+.carousel-inner img{
+   height:100%;
+  width:100%;
+}
+
+ .sembunyi {
+        position:fixed;
+        left:10px;
+        top:70px;
+        z-index:1000;
+        display:none;
+    } 
+
+ .footer {
+      background-color: rgb(255, 255, 255);
+}
+
+.row .img {
+    height: 150px;
+    width: 100px;
+}

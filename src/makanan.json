@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "nama": "Salad a",
+        "harga": "Rp 2k",
+        "detail": "Salad is the most popular food",
+        "urlgambar": "img/offer1.jpg"
+    },
+    {
+        "id": 1,
+        "nama": "Salad b",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng",
+        "urlgambar": "img/offer2.jpg"
+    },
+    {
+        "id": 2,
+        "nama": "Salad c",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng",
+        "urlgambar": "img/offer1.jpg"
+    },
+    {
+        "id": 3,
+        "nama": "Salad d",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng",
+        "urlgambar": "img/offer2.jpg"
+    },
+    {
+        "id": 4,
+        "nama": "ayam goreng a",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng", 
+        "urlgambar": "img/offer7.jpg"
+    },
+    {
+        "id": 5,
+        "nama": "ayam goreng b",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng", 
+        "urlgambar": "img/offer7.jpg"
+    },
+    {
+        "id": 6,
+        "nama": "ayam goreng c",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng", 
+        "urlgambar": "img/offer7.jpg"
+    },
+    {
+        "id": 7,
+        "nama": "ayam goreng d",
+        "harga": "Rp 5k",
+        "detail": "ini adalah ayam goreng", 
+        "urlgambar": "img/offer7.jpg"
+    }
+]
